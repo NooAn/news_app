@@ -1,5 +1,5 @@
-# news_app as test app for agoda
-This is a sample News Reader app that is supposed to display news list and the details. The first page displays news list, when one of the items is clicked, it is supposed to show the detail of the selected news. Unfortunately, the app is full of bugs and it crashes as soon as it is launched. Also, the code is not properly written and there are no unit tests. 
+# This is a sample News Reader app as test app for agoda
+News Reader app that is supposed to display news list and the details. The first page displays news list, when one of the items is clicked, it is supposed to show the detail of the selected news. Unfortunately, the app is full of bugs and it crashes as soon as it is launched. Also, the code is not properly written and there are no unit tests. 
 
 Basic unit test
 Unit tests for NewsViewModel
